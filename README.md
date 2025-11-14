@@ -31,7 +31,7 @@ Para executar este projeto e visualizar os gráficos, siga os passos abaixo.
 
 ### **1\. Clonar o Repositório**
 
-git clone \[https://github.com/seu-usuario/seu-repositorio.git\](https://github.com/seu-usuario/seu-repositorio.git)  
+git clone https://github.com/pedrodavi120/derivadas-matematica 
 cd seu-repositorio
 
 ### **2\. Criar um Ambiente Virtual (Recomendado)**
