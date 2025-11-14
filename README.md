@@ -12,6 +12,10 @@ Este repositório contém o código-fonte do trabalho da disciplina **MATEMÁTIC
 
 O script Trabalho\_Derivadas\_TADS.py implementa a solução para 5 problemas propostos, que incluem:
 
+### **Link para download do programa:**
+
+https://drive.google.com/file/d/1TccD1Ww0uAuX1Tw6N8IqPbTKb9f37gCw/view?usp=sharing
+
 1. **Otimização de Desempenho:** Encontrar o ponto de mínimo de uma função de custo de sistema.  
 2. **Gradient Descent:** Implementar o algoritmo de Descida do Gradiente para minimizar uma função de custo, simulando o treinamento de um modelo de Machine Learning.  
 3. **Análise de Tendências:** Encontrar o ponto de inflexão em uma curva de adoção de tecnologia (ponto de máxima velocidade de crescimento).  
