@@ -31,6 +31,16 @@ https://drive.google.com/file/d/1TccD1Ww0uAuX1Tw6N8IqPbTKb9f37gCw/view?usp=shari
 * **NumPy:** Para cálculos numéricos (execução do Gradient Descent).  
 * **Matplotlib:** Para a visualização dos gráficos de cada problema.
 
+## **Prints do Programa**
+
+### Interface:
+
+<img src="interface.jpg" alt="print1">
+
+### Exemplo de função (com gráfico):
+
+<img src="exemplo.jpg" alt="print2">
+
 ## **Como Executar o Projeto**
 
 Para executar este projeto e visualizar os gráficos, siga os passos abaixo.
