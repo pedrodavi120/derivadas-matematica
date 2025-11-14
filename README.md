@@ -10,6 +10,8 @@ Este repositório contém o código-fonte do trabalho da disciplina **MATEMÁTIC
 
 ## **Descrição do Projeto**
 
+<img src="git.png" alt="Foto da logo CalculaPRO">
+
 O script Trabalho\_Derivadas\_TADS.py implementa a solução para 5 problemas propostos, que incluem:
 
 ### **Link para download do programa:**
